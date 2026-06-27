@@ -1,0 +1,5 @@
+O processamento de documentos é uma etapa central em sistemas de recuperação de informação, porque transforma textos brutos em representações mais úteis para análise e busca. Em um fluxo típico, o conteúdo passa por normalização, tokenização, remoção de stopwords e redução de variações morfológicas, o que ajuda a destacar os termos realmente importantes.
+
+Quando um documento é preparado dessa forma, o sistema consegue comparar consultas com mais precisão, identificar palavras relacionadas e organizar melhor os termos em um índice invertido. Esse tipo de abordagem é amplamente usado em mecanismos de busca, bibliotecas digitais, análise de notícias e ambientes que precisam lidar com grande volume de texto.
+
+Além disso, o pré-processamento melhora a consistência dos resultados, reduz ruídos e facilita o cálculo de pesos como o TF-IDF. Assim, documentos que tratam de temas semelhantes tendem a ficar mais próximos em uma avaliação por similaridade, permitindo uma recuperação mais eficiente e coerente com a intenção do usuário.

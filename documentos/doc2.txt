@@ -1,0 +1,5 @@
+Redes sociais geram grandes volumes de documentos, mensagens e dados textuais todos os dias, criando um ambiente rico para aplicações de processamento de linguagem natural e recuperação de informação. Publicações, comentários, respostas e descrições de perfil formam um conjunto heterogêneo de textos que pode ser explorado para identificar tendências, temas recorrentes e padrões de comportamento.
+
+Nesse cenário, a análise textual precisa lidar com abreviações, repetições, emojis, variações ortográficas e ruído linguístico. Por isso, técnicas como normalização, filtragem de palavras pouco informativas e construção de índices invertidos são importantes para organizar o material coletado e permitir consultas mais eficientes.
+
+Ao aplicar medidas de similaridade, o sistema pode relacionar uma consulta com postagens que tratam do mesmo assunto, mesmo quando as palavras não aparecem exatamente na mesma forma. Isso é útil em monitoramento de marca, mineração de opiniões, detecção de tópicos emergentes e estudo do fluxo informacional em comunidades digitais.

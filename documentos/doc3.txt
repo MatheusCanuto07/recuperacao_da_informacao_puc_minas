@@ -1,0 +1,5 @@
+A eliminação de stopwords e o stemming reduzem ruídos e melhoram a estrutura do índice invertido, tornando o conjunto de termos mais representativo do conteúdo dos documentos. Palavras muito frequentes e pouco informativas, como artigos, preposições e algumas conjunções, normalmente aparecem em quase todos os textos e contribuem pouco para diferenciar assuntos.
+
+O stemming simplificado também ajuda a agrupar formas flexionadas de uma mesma palavra em uma raiz aproximada, o que facilita a comparação entre documentos e consultas. Em vez de tratar cada variação como um termo totalmente diferente, o sistema consegue aproximá-las para aumentar a chance de correspondência semântica.
+
+Quando essas etapas são combinadas com um índice invertido bem estruturado e com pesos como TF-IDF, o resultado é um mecanismo de busca mais consistente. O ranking final tende a favorecer documentos que compartilham os termos mais relevantes da consulta, oferecendo uma recuperação de informação mais precisa e didática.
