@@ -1,1 +1,3 @@
 Este projeto implementa um protótipo de processamento de documentos para recuperação de informação utilizando Python. A aplicação realiza etapas de pré-processamento textual, como normalização, tokenização, remoção de stopwords e stemming, e depois construir um índice invertido e utiliza TF-IDF para representar os documentos. Por fim, permite realizar consultas e recuperar os documentos mais relevantes com base na similaridade entre a consulta e a coleção textual.
+
+Assista a apresentação: https://www.youtube.com/watch?v=Wo3sXtfjHXE
